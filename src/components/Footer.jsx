@@ -13,7 +13,7 @@ const Footer = () => (
             rel="noopener noreferrer"
             className="facebook"
           >
-            <i class="fab fa-facebook-f fa-2x" />
+            <i className="fab fa-facebook-f fa-2x" />
           </a>
         </li>
         <li>
@@ -23,7 +23,7 @@ const Footer = () => (
             rel="noopener noreferrer"
             className="twitter"
           >
-            <i class="fab fa-twitter fa-2x" />
+            <i className="fab fa-twitter fa-2x" />
           </a>
         </li>
         <li>
@@ -33,7 +33,7 @@ const Footer = () => (
             rel="noopener noreferrer"
             className="instagram"
           >
-            <i class="fab fa-instagram fa-2x" />
+            <i className="fab fa-instagram fa-2x" />
           </a>
         </li>
       </ul>

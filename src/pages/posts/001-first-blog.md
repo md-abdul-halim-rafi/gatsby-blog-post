@@ -2,7 +2,6 @@
 title: "First post - introduction"
 date: 2019-12-01 07:00:00
 author: MeeFee
-path: /first-post
 image: ../../images/coding.jpg
 tags:
   - Code
